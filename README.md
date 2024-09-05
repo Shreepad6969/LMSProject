@@ -1,4 +1,4 @@
-Learning Management System (LMS)
+#Learning Management System (LMS)
 Overview
 The Learning Management System (LMS) is a Java-based application designed to manage and streamline educational courses. It provides a platform for creating and managing courses, enrolling students, and assigning instructors. The LMS allows users to perform various actions related to course management and user management efficiently.
 
